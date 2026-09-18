@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "etc5523"
+assignment: "assignment-3"
+owner:
+  username: "AatishPrasad0"
+  id: 163362800
+  accepted_at: "2026-09-18T06:27:09Z"
+source:
+  owner: "ETC5523-2026"
+  owner_id: 265932295
+  repo: "assignment-3"
+  branch: "main"

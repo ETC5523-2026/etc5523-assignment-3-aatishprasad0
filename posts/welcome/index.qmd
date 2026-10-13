@@ -6,8 +6,21 @@ date: "2026-10-12"
 categories: [news]
 ---
 
-This is tfirst post in a Quarto blog. Welcomehe 
+During the COVID-19 pandemic, Australia relied on border quarantine to reduce the risk of infected travellers bringing the virus into the wider community. However, keeping the virus contained became more challenging as new variants, such as Delta, spread more easily. Vaccines offered another layer of protection, but their ability to prevent infection varied, and vaccination alone could not guarantee that the virus would remain contained.
+
+This raised an important question: could vaccination make border quarantine sufficiently safe, or were strong infection-control measures still essential? Zachreson et al. (2022) investigated this issue by using computer simulations to examine how the virus's ability to spread, vaccine effectiveness, vaccination levels in the wider community and quarantine controls influenced the risk of an infection escaping into the community and triggering an outbreak.
 
 ![](thumbnail.jpg)
 
 
+Zachreson et al. (2022) based their investigation on a mathematical model of COVID-19 transmission in a hypothetical border quarantine facility. The researchers used evidence and estimates about the virus's ability to spread, vaccine effectiveness and infection-control measures to simulate different scenarios. They then used these simulations to estimate the likelihood of infections escaping quarantine and the risk of an outbreak in the wider community. The findings therefore represent model-based estimates under specified assumptions, rather than results from a direct experiment in an actual quarantine facility.
+
+The study found that the effectiveness of border quarantine depended on how easily the virus spread, how well vaccines protected against infection, and how strictly infection-control measures were applied.
+
+First, more transmissible variants made quarantine harder to maintain. When the virus spread more easily, higher vaccine effectiveness was needed to keep the risk of an outbreak at a similar level. Under the study's main assumptions, vaccine effectiveness of around 70–80% was sufficient to maintain the baseline risk when the virus's reproduction number was 10.
+
+Second, high vaccination coverage in the wider community could delay outbreaks, particularly when vaccines were highly effective. In some modelled scenarios, the time taken to reach a 50% probability of an outbreak increased from around 15 days to approximately 1,000 days. This suggests that widespread vaccination could substantially delay outbreaks, although it could not guarantee that infections would never escape quarantine.
+
+Finally, weakening infection-control measures could sharply increase the risk of a breach. In scenarios involving highly transmissible viruses and low vaccine effectiveness, the risk could rise to as much as 100 times the baseline level.
+
+Overall, the findings suggest that vaccination was an important layer of protection, but its effectiveness depended on the characteristics of the virus and the strength of infection-control measures. Vaccination alone could not guarantee that border quarantine would prevent outbreaks.

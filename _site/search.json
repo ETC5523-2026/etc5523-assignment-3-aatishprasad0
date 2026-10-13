@@ -18,6 +18,6 @@
     "href": "posts/welcome/index.html",
     "title": "Keep Calm and Quarantine On?",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!"
+    "text": "During the COVID-19 pandemic, Australia relied on border quarantine to reduce the risk of infected travellers bringing the virus into the wider community. However, keeping the virus contained became more challenging as new variants, such as Delta, spread more easily. Vaccines offered another layer of protection, but their ability to prevent infection varied, and vaccination alone could not guarantee that the virus would remain contained.\nThis raised an important question: could vaccination make border quarantine sufficiently safe, or were strong infection-control measures still essential? Zachreson et al. (2022) investigated this issue by using computer simulations to examine how the virus’s ability to spread, vaccine effectiveness, vaccination levels in the wider community and quarantine controls influenced the risk of an infection escaping into the community and triggering an outbreak."
   }
 ]

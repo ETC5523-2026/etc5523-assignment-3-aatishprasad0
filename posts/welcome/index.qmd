@@ -13,14 +13,18 @@ This raised an important question: could vaccination make border quarantine suff
 ![](thumbnail.jpg)
 
 
-Zachreson et al. (2022) based their investigation on a mathematical model of COVID-19 transmission in a hypothetical border quarantine facility. The researchers used evidence and estimates about the virus's ability to spread, vaccine effectiveness and infection-control measures to simulate different scenarios. They then used these simulations to estimate the likelihood of infections escaping quarantine and the risk of an outbreak in the wider community. The findings therefore represent model-based estimates under specified assumptions, rather than results from a direct experiment in an actual quarantine facility.
 
-The study found that the effectiveness of border quarantine depended on how easily the virus spread, how well vaccines protected against infection, and how strictly infection-control measures were applied.
+Published in Science Advances in 2022, the study used computer simulations to model a hypothetical quarantine hotel with 100 travellers and 20 vaccinated staff (Zachreson et al., 2022). The researchers tested how viral transmissibility, vaccine effectiveness and infection-control measures affected the risk of infections escaping quarantine and triggering community outbreaks.
 
-First, more transmissible variants made quarantine harder to maintain. When the virus spread more easily, higher vaccine effectiveness was needed to keep the risk of an outbreak at a similar level. Under the study's main assumptions, vaccine effectiveness of around 70–80% was sufficient to maintain the baseline risk when the virus's reproduction number was 10.
+The model was compared with Australian data, which recorded 14 quarantine breaches in a year, nine of which led to further spread. The simulation produced roughly twice as many breaches, suggesting it was more useful for comparing scenarios than predicting exact numbers (Zachreson et al., 2022).
 
-Second, high vaccination coverage in the wider community could delay outbreaks, particularly when vaccines were highly effective. In some modelled scenarios, the time taken to reach a 50% probability of an outbreak increased from around 15 days to approximately 1,000 days. This suggests that widespread vaccination could substantially delay outbreaks, although it could not guarantee that infections would never escape quarantine.
+The simulation showed that quarantine safety depends on four things working together.
 
-Finally, weakening infection-control measures could sharply increase the risk of a breach. In scenarios involving highly transmissible viruses and low vaccine effectiveness, the risk could rise to as much as 100 times the baseline level.
+**A more contagious virus needs a stronger vaccine.** Compared with the early pandemic (no vaccines, a virus passing to about 3 people on average), a Delta-like virus (about 6 people) needed a vaccine that was over 60% effective just to keep the risk of infection escaping quarantine at the old level. At about 8 people it needed over 70%. For even more contagious viruses the requirement levelled off at 70–80% .
 
-Overall, the findings suggest that vaccination was an important layer of protection, but its effectiveness depended on the characteristics of the virus and the strength of infection-control measures. Vaccination alone could not guarantee that border quarantine would prevent outbreaks.
+**Vaccinating the community buys time.** If the vaccine was weak (under about 60% effective), vaccinating more people made little difference. If it was 80% effective or better and community coverage was high, the time until an outbreak had a 50% chance of starting grew from about 15 days to around 1,000 days, nearly three years . That’s a long delay, but the risk was pushed back, not removed.\
+
+**Strict hotel hygiene still mattered.** When protections inside the hotel were weakened, the chance of an infected person leaving quarantine jumped, up to 100 times higher with a very contagious virus and a weak vaccine.
+
+Together, these results show that vaccination made quarantine safer but couldn’t do the job alone.
+look at this and correct any inaccuracies or fill in any missing info. Maintain the tone
